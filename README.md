@@ -1,1 +1,1 @@
-# aws-howdy-partner
+# aws-howdy-partner-webhooks
